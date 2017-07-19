@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>xxl-job-executor-bidlink-demo</artifactId>
+    <artifactId>xxl-job-executor-jar-example</artifactId>
 
     <properties>
         <xxl-job.version>1.8.0-SNAPSHOT</xxl-job.version>
