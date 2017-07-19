@@ -15,7 +15,8 @@
 		<module>xxl-job-admin</module>
 		<module>xxl-job-executor-example</module>
         <module>xxl-job-executor-springboot-example</module>
-    </modules>
+		<module>xxl-job-executor-bidlink-demo</module>
+	</modules>
 
 	<build>
 		<plugins>
