@@ -67,6 +67,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-assembly-plugin</artifactId>
+                <version>2.6</version>
                 <configuration>
                     <descriptor>${project.basedir}/src/main/assembly/assembly.xml</descriptor>
                 </configuration>
